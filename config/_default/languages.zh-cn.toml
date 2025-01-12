@@ -1,0 +1,25 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 4
+title = "Edison Chen"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2025-01-02"
+  # logo = "img/Edisoncat_logo.png"
+  # secondaryLogo = "img/Edisoncat_logo.png" # 这个 logo 的颜色方案应该是和上面的是相反或对比的。
+  # description = "一个强大、轻量级的 Hugo 主题。"
+
+[params.author]
+  name = "Edison Chen"
+  image = "img/logo.png"
+  headline = "我是 Iron Man。"
+  bio = "一名UI设计小学生。"
+  links = [
+    { email = "mailto:cs785745156@gmail.com" }, 
+    { douyin = "https://v.douyin.com/iynBcrrn/ 8@4.com :9pm" },
+    { github = "https://Eeedisonc.github.io" },
+    { x-twitter = "https://x.com/EDC_555" },
+  ]

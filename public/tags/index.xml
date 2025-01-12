@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Edison Chen</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Edison Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>cs785745156@gmail.com (Edison Chen)</managingEditor>
+    <webMaster>cs785745156@gmail.com (Edison Chen)</webMaster>
+    <copyright>© 2025 Edison Chen</copyright>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Space</title>
+      <link>http://localhost:1313/tags/space/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <author>cs785745156@gmail.com (Edison Chen)</author>
+      <guid>http://localhost:1313/tags/space/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
