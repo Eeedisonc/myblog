@@ -46,11 +46,11 @@
   url = "mailto:cs785745156@gmail.com"
   weight = 200
 
-[[main]]
-  identifier = "douyin"
-  pre = "douyin"
-  url = "https://v.douyin.com/iynBcrrn/ 8@4.com :9pm"
-  weight = 300
+#[[main]]
+#  identifier = "douyin"
+#  pre = "douyin"
+#  url = "https://v.douyin.com/iynBcrrn/ 8@4.com :9pm"
+#  weight = 300
 
 [[main]]
   identifier = "github"

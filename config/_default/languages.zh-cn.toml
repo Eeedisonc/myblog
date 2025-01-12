@@ -19,7 +19,7 @@ title = "Edison Chen"
   bio = "一名UI设计小学生。"
   links = [
     { email = "mailto:cs785745156@gmail.com" }, 
-    { douyin = "https://v.douyin.com/iynBcrrn/ 8@4.com :9pm" },
+    # { douyin = "https://v.douyin.com/iynBcrrn/ 8@4.com :9pm" },
     { github = "https://Eeedisonc.github.io" },
     { x-twitter = "https://x.com/EDC_555" },
   ]
