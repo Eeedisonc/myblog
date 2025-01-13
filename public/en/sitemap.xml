@@ -3,22 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/docs/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -32,6 +16,22 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/docs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/docs/"
     />
   </url>
   <url>
