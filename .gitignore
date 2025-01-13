@@ -2,12 +2,6 @@
 node_modules
 .hugo_build.lock
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
 # Hugo and Blowfish
 public/
 resources/
@@ -22,16 +16,13 @@ exampleSite/resources/
 
 # Test binary, built with `go test -c`
 *.test
+.txt
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-
-#others
-node_modules
-.hugo_build.lock
 
 # OS generated files
 .DS_Store
@@ -42,5 +33,3 @@ node_modules
 .idea
 .Ulysses-Group.plist
 .Ulysses-Settings.plist
-# Hugo
-public
