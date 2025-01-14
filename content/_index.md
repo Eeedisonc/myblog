@@ -3,6 +3,12 @@ description: "Welcome to my little corner of the web! I'm Truong, sharing blog p
 ---
 
 <!-- 👋 -->
+<!-- {{< button href="/posts" target="_self" >}}
+Posts
+{{< /button >}} -->
 
 {{< typeit
-speed = 13 >}}A journey of a thousand miles begins with a single step.{{< /typeit >}}
+    speed=300
+    tag=h3
+    loop=true
+>}}A journey of a thousand miles begins with a single step.{{< /typeit >}}
