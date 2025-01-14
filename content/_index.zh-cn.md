@@ -3,7 +3,13 @@ description: "Welcome to my little corner of the web! I'm Truong, sharing blog p
 ---
 
 <!-- 👋 -->
+<!-- {{< button href="/posts" target="_self" >}}
+Posts
+{{< /button >}} -->
 
 {{< typeit
-speed = 13 >}}千里之行，
+    speed=300
+    tag=h3
+    loop=true
+>}}千里之行，
 始于足下。{{< /typeit >}}
