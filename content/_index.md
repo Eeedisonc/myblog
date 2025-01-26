@@ -8,7 +8,7 @@ Posts
 {{< /button >}} -->
 
 {{< typeit
-    speed=300
+    speed=100
     tag=h3
-    loop=true
+    loop=false
 >}}A journey of a thousand miles begins with a single step.{{< /typeit >}}

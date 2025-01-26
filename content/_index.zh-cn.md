@@ -8,8 +8,8 @@ Posts
 {{< /button >}} -->
 
 {{< typeit
-    speed=300
+    speed=100
     tag=h3
-    loop=true
+    loop=false
 >}}千里之行，
 始于足下。{{< /typeit >}}
