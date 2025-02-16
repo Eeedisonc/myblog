@@ -35,22 +35,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/zh-cn/tags/space/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/space/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/space/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/zh-cn/tags/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -81,6 +65,12 @@
       hreflang="zh-cn"
       href="http://localhost:1313/zh-cn/docs/myfirstpost/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/%E6%96%87%E6%A1%A3/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/authors/</loc>
