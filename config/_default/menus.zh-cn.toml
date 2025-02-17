@@ -20,15 +20,15 @@
   pageRef = "resume"
   weight = 20
 
-[[main]]
-  name = "工具"
-  weight = 30
+#[[main]]
+#  name = "工具"
+#  weight = 30
 
-[[main]]
-  name = "photoshop"
-  parent = "工具"
-  pageRef = "工具"
-  weight = 25
+#[[main]]
+#  name = "photoshop"
+#  parent = "工具"
+#  pageRef = "工具"
+#  weight = 25
 
 [[main]]
   name = "关于"
