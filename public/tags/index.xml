@@ -5,18 +5,16 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Edison Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>cs785745156@gmail.com (Edison Chen)</managingEditor>
-    <webMaster>cs785745156@gmail.com (Edison Chen)</webMaster>
+    <language>zh-cn</language>
     <copyright>© 2025 Edison Chen</copyright>
     <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Docs</title>
-      <link>http://localhost:1313/tags/docs/</link>
+      <title>文档</title>
+      <link>http://localhost:1313/tags/%E6%96%87%E6%A1%A3/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <author>cs785745156@gmail.com (Edison Chen)</author>
-      <guid>http://localhost:1313/tags/docs/</guid>
+      
+      <guid>http://localhost:1313/tags/%E6%96%87%E6%A1%A3/</guid>
       <description></description>
       
     </item>

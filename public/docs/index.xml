@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Edison Chen</title>
+    <title>Docs on 简体中文</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on Edison Chen</description>
+    <description>Recent content in Docs on 简体中文</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>cs785745156@gmail.com (Edison Chen)</managingEditor>
-    <webMaster>cs785745156@gmail.com (Edison Chen)</webMaster>
+    <language>zh-cn</language>
     <copyright>© 2025 Edison Chen</copyright>
     <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>From Code to Future: Reflections on Building My Personal Website and AI-Driven Design</title>
+      <title>从代码到未来：我的个人网站搭建与AI设计随想</title>
       <link>http://localhost:1313/docs/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <author>cs785745156@gmail.com (Edison Chen)</author>
+      
       <guid>http://localhost:1313/docs/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/</guid>
       <description>&lt;!--## A sub-title --&gt;
-&lt;p&gt;As I deployed the final Hugo build files on GitHub Pages, gazing at the sleek Blowfish-themed website, I suddenly realized this digital space would become a pivotal milestone in my career. As both a designer and tech enthusiast, choosing Hugo static site generator for my portfolio wasn&amp;rsquo;t just about lightning-fast loading speeds - it embodied my commitment to digital sovereignty and the aesthetics of code.&lt;/p&gt;</description>
+&lt;p&gt;在GitHub Pages的服务器上部署完最后一个Hugo构建文件时，我望着屏幕上简洁优雅的Blowfish主题网站，忽然意识到这个数字空间即将成为职业生涯的重要转折点。作为设计师与技术爱好者的双重身份，我选择Hugo静态网站生成器搭建个人作品集，不仅因为其闪电般的加载速度，更源于对数字主权与代码美学的坚持。&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/feature.png" />
     </item>
     
     <item>
-      <title>Hello World</title>
+      <title>你好，世界</title>
       <link>http://localhost:1313/docs/myfirstpost/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <author>cs785745156@gmail.com (Edison Chen)</author>
+      
       <guid>http://localhost:1313/docs/myfirstpost/</guid>
-      <description>This is my first post on my site</description>
+      <description>这是我在我的网站上的第一篇文章</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/myfirstpost/feature.png" />
     </item>
     

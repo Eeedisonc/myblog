@@ -1,10 +1,10 @@
 languageCode = "zh-cn"
-languageName = "简体中文"
-weight = 4
+languageName = "zh"
+weight = 1
 title = "Edison Chen"
 
 [params]
-  displayName = "简体中文"
+  displayName = "zh"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
@@ -15,8 +15,8 @@ title = "Edison Chen"
 [params.author]
   name = "Edison Chen"
   image = "img/logo.png"
-  headline = "我是 Iron Man。"
-  bio = "一名UI设计小学生。"
+  # headline = "一名热爱学习的设计初学者"
+  bio = "一名热爱学习的设计初学者"
   links = [
     { email = "mailto:cs785745156@gmail.com" }, 
     { douyin = "https://v.douyin.com/iynBcrrn/ 8@4.com :9pm" },

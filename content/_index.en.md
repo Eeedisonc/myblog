@@ -14,5 +14,5 @@ Posts
   lifeLike=false
   breakLines=true
   loop=false
->}}千里之行，
-始于足下。{{< /typeit >}}
+>}}A journey of a thousand miles begins with a single step.
+{{< /typeit >}}

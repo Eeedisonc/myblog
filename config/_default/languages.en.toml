@@ -1,11 +1,11 @@
 disabled = false
 languageCode = "en"
-languageName = "English"
-weight = 1
+languageName = "en"
+weight = 2
 title = "Edison Chen"
 
 [params]
-  displayName = "English"
+  displayName = "en"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
@@ -19,8 +19,8 @@ title = "Edison Chen"
   email = "cs785745156@gmail.com"
   image = "img/logo.png"
   imageQuality = 96
-  headline = "I am Iron Man."
-  bio = "A UI design elementary school student"
+  # headline = "A design beginner passionate about learning."
+  bio = "A design beginner passionate about learning"
   links = [
     { email = "mailto:cs785745156@gmail.com" },
     { douyin = "https://v.douyin.com/iynBcrrn/ 8@4.com :9pm" },

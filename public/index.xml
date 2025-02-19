@@ -1,35 +1,149 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edison Chen</title>
+    <title>custom frontpage on Edison Chen</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Edison Chen</description>
+    <description>Recent content in custom frontpage on Edison Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>cs785745156@gmail.com (Edison Chen)</managingEditor>
-    <webMaster>cs785745156@gmail.com (Edison Chen)</webMaster>
+    <language>zh-cn</language>
     <copyright>© 2025 Edison Chen</copyright>
-    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Feb 2025 20:55:37 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>From Code to Future: Reflections on Building My Personal Website and AI-Driven Design</title>
-      <link>http://localhost:1313/docs/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/</link>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <author>cs785745156@gmail.com (Edison Chen)</author>
-      <guid>http://localhost:1313/docs/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/</guid>
-      <description>&lt;!--## A sub-title --&gt;
-&lt;p&gt;As I deployed the final Hugo build files on GitHub Pages, gazing at the sleek Blowfish-themed website, I suddenly realized this digital space would become a pivotal milestone in my career. As both a designer and tech enthusiast, choosing Hugo static site generator for my portfolio wasn&amp;rsquo;t just about lightning-fast loading speeds - it embodied my commitment to digital sovereignty and the aesthetics of code.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/feature.png" />
+      <title>关于</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 19 Feb 2025 20:55:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;👋 你好朋友！&lt;/p&gt;</description>
+      
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/docs/myfirstpost/</link>
+      <title>简介</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;经历 
+    &lt;div id=&#34;%E7%BB%8F%E5%8E%86&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h2&gt;
+&lt;!-- 
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th style=&#34;text-align: left;&#34;&gt;公司&lt;/th&gt;
+            &lt;th style=&#34;text-align: left;&#34;&gt;链接&lt;/th&gt;
+            &lt;th style=&#34;text-align: left;&#34;&gt;角色&lt;/th&gt;
+            &lt;th style=&#34;text-align: left;&#34;&gt;时间&lt;/th&gt;
+            &lt;th style=&#34;text-align: left;&#34;&gt;地点&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr &gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;gt.png&#34; height=&#34;150&#34; width=&#34;150&#34;/&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;a href=&#34;https://www.grantthornton.cn/about-us/&#34; target=&#34;_blank&#34;&gt;致同会计师事务所&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;数字化项目经理&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;2022 - 当前&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;广东，深圳&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr &gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;cr.png&#34; height=&#34;150&#34; width=&#34;150&#34;/&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;a href=&#34;http://www.crmixclifestyle.com.cn/wxsh/index.html&#34; target=&#34;_blank&#34;&gt;华润万象生活&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;数据运营主管&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;2021 - 2022&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;广东，深圳&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr &gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;pa.png&#34; height=&#34;150&#34; width=&#34;150&#34;/&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;a href=&#34;https://life.pingan.com/p/#/about&#34; target=&#34;_blank&#34;&gt;平安人寿保险&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;数据采集工程师&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;2020 - 2021&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;广东，深圳&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr &gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;klook.png&#34; height=&#34;150&#34; width=&#34;150&#34;/&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;&lt;a href=&#34;https://www.klook.com/zh-CN/about/&#34; target=&#34;_blank&#34;&gt;客路旅行科技&lt;/a&gt;&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;运营助理&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;2017 - 2020&lt;/td&gt;
+            &lt;td style=&#34;vertical-align: middle;&#34;&gt;广东，深圳&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+--&gt;
+&lt;hr&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;教育 
+    &lt;div id=&#34;%E6%95%99%E8%82%B2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h2&gt;
+&lt;!-- 
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;School&lt;/th&gt;
+            &lt;th&gt;Link&lt;/th&gt;
+            &lt;th&gt;Degree&lt;/th&gt;
+            &lt;th&gt;Date&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=4&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;hbs.svg&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=4&gt;&lt;a href=&#34;https://online.hbs.edu/&#34; target=&#34;_blank&#34;&gt;Harvard Business School Online&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Launching Tech Ventures&lt;/td&gt;
+            &lt;td&gt;2023&lt;/td&gt;
+        &lt;/tr&gt;
+         &lt;tr&gt;
+            &lt;td&gt;Entrepreneurship Essentials&lt;/td&gt;
+            &lt;td&gt;2022&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Disruptive Strategy&lt;/td&gt;
+            &lt;td&gt;2021&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=3&gt;&lt;img class=&#34;customEntitityLogo&#34; src=&#34;ist.png&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=3&gt;&lt;a href=&#34;https://tecnico.ulisboa.pt/en/&#34; target=&#34;_blank&#34;&gt;Tecnico Lisboa&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;MSc in Computer Science - Distributed Systems&lt;/td&gt;
+            &lt;td&gt;2012&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;BSc, Computer Science&lt;/td&gt;
+            &lt;td&gt;2010&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+--&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>从代码到未来：我的个人网站搭建与AI设计随想</title>
+      <link>http://localhost:1313/blog/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/</guid>
+      <description>&lt;!--## A sub-title --&gt;
+&lt;p&gt;在GitHub Pages的服务器上部署完最后一个Hugo构建文件时，我望着屏幕上简洁优雅的Blowfish主题网站，忽然意识到这个数字空间即将成为职业生涯的重要转折点。作为设计师与技术爱好者的双重身份，我选择Hugo静态网站生成器搭建个人作品集，不仅因为其闪电般的加载速度，更源于对数字主权与代码美学的坚持。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/%E4%BB%8E%E4%BB%A3%E7%A0%81%E5%88%B0%E6%9C%AA%E6%9D%A5%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E4%B8%8Eai%E8%AE%BE%E8%AE%A1%E9%9A%8F%E6%83%B3/feature.png" />
+    </item>
+    
+    <item>
+      <title>你好，世界</title>
+      <link>http://localhost:1313/blog/myfirstpost/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <author>cs785745156@gmail.com (Edison Chen)</author>
-      <guid>http://localhost:1313/docs/myfirstpost/</guid>
-      <description>This is my first post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/myfirstpost/feature.png" />
+      
+      <guid>http://localhost:1313/blog/myfirstpost/</guid>
+      <description>这是我在我的网站上的第一篇文章</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/myfirstpost/feature.png" />
     </item>
     
   </channel>

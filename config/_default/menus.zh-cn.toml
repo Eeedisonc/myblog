@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "文档"
-  pageRef = "docs"
+  name = "关于"
+  pageRef = "about"
   weight = 10
 
 [[main]]
@@ -31,9 +31,9 @@
 #  weight = 25
 
 [[main]]
-  name = "关于"
-  pageRef = "about"
-  weight = 40
+  name = "随记"
+  pageRef = "blog"
+  weight = 30
 
 #[[main]]
 #  name = "Test"
