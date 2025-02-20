@@ -23,3 +23,5 @@ layoutBackgroundHeaderSpace: false
 
 ---
 👋 Hi, guys！ 
+
+I am Edison Chen, a graphic and 3D designer currently exploring how to integrate AI technology into my design work. I believe that AI can bring more creativity and possibilities to design, so I am constantly learning and using AI tools to push the boundaries of design, searching for new ways of expression and solutions.

@@ -24,3 +24,5 @@ layoutBackgroundHeaderSpace: false
 ---
 👋 你好朋友！ 
 
+我是Edison Chen，一名平面和3D设计师，目前正在探索如何将AI技术融入我的设计工作中。我相信AI能够为设计带来更多创意和可能性，因此我不断学习，利用AI工具拓展设计的边界，寻找新的表达方式和解决方案。
+

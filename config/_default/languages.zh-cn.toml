@@ -1,14 +1,14 @@
 languageCode = "zh-cn"
 languageName = "Simplified Chinese (China)"
 weight = 1
-title = "Edison Chen"
+# title = "Edison Chen"
 
 [params]
   displayName = "中文"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  # logo = "img/Edisoncat_logo.png"
+  logo = "img/logo-1.png"
   # secondaryLogo = "img/Edisoncat_logo.png" # 这个 logo 的颜色方案应该是和上面的是相反或对比的。
   # description = "一个强大、轻量级的 Hugo 主题。"
 
