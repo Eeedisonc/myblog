@@ -28,7 +28,7 @@
 #  name = "photoshop"
 #  parent = "tools"
 #  pageRef = "tools"
-#  weight = 25
+#  weight = 35
 
 [[main]]
   name = "blog"
