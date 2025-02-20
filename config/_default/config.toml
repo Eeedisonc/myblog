@@ -6,12 +6,13 @@ theme = "blowfish"
 baseURL = "http://edisonc.com/"
 defaultContentLanguage = "zh-cn"
 disableLanguages = [] #to allow translation work requiring shipping to production
-
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+defaultContentLanguageInSubdir = false
+pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-summaryLength = 30
-hasCJKLanguage = true
+paginate = 10
+summaryLength = 0
+smartTOC = true
 
 buildDrafts = false
 buildFuture = false
@@ -69,3 +70,17 @@ googleAnalytics = "G-JMWENY6FCY"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+
+
+# 禁用意大利语和示例站点
+ignoreFiles = [
+  "content/docs/shortcodes/index.it.md$",  # 精确匹配问题文件
+  "themes/blowfish/exampleSite"  # 忽略整个示例站点
+]
+
+# 确保构建时仅包含你的内容
+[module]
+  [[module.mounts]]
+    source = "content"
+    target = "content"

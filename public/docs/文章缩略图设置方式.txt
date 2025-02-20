@@ -1,3 +1,0 @@
-Blowfish 的创立开端旨在便于为文章添加视觉效果。如果你熟悉 Hugo 的文章结构，只需要在你文章所在的文件夹中，放置一个以feature*开头的图像文件（Blowfish支持所有格式的文件，但更推荐使用 .png 或 .jpg）。就这样，Blowfish 就能够将图像文件作为文章的缩略图，而且能够在社交平台的 <a target="_blank" href="https://oembed.com/">oEmbed</a> 卡片中使用。
-
-Blowfish 还支持在文章和列表中使用背景图。为了使与缩略图不同，可以添加一个名为 background* 开头的图像文件。当然如果你没有设置背景图片，Blowfish 会默认使用缩略图作为背景图。

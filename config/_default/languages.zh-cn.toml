@@ -1,10 +1,10 @@
 languageCode = "zh-cn"
-languageName = "zh"
+languageName = "Simplified Chinese (China)"
 weight = 1
 title = "Edison Chen"
 
 [params]
-  displayName = "zh"
+  displayName = "中文"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
