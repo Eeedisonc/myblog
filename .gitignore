@@ -1,28 +1,29 @@
-#others
-node_modules
+# Others
+node_modules/
 .hugo_build.lock
 
 # Hugo and Blowfish
 public/
 resources/
 exampleSite/resources/
+hugo_stats.json  # 新增
 
 # Binaries for programs and plugins
 *.exe
-*.exe~
+*.exe~  # 修正为 *.exe~
 *.dll
 *.so
 *.dylib
 
 # Test binary, built with `go test -c`
 *.test
-.txt
+# .txt  # 注释或删除此行，除非明确要忽略所有 .txt 文件
 
-# Output of the go coverage tool, specifically when used with LiteIDE
+# Output of the go coverage tool
 *.out
 
-# Dependency directories (remove the comment below to include it)
-# vendor/
+# Dependency directories
+vendor/  # 取消注释
 
 # OS generated files
 .DS_Store
@@ -30,6 +31,6 @@ exampleSite/resources/
 ._*
 .Spotlight-V100
 .Trashes
-.idea
+.idea/
 .Ulysses-Group.plist
 .Ulysses-Settings.plist
